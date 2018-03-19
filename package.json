@@ -20,9 +20,11 @@
     "url": "https://github.com/crucari/Udemy_Mean_Hotel"
   },
   "homepage": "https://github.com/crucari/Udemy_Mean_Hotel",
-  "dependencies": {
+ "dependencies": {
     "body-parser": "^1.14.2",
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "mongodb": "^2.1.7",
+    "mongoose": "^4.4.8"
   },
   "devDependencies": {
     "mocha": "^2.3.3"
